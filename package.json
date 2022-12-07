@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Thanya-Fractal/react-tdd-app#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.7.12",
     "nodemon": "^2.0.1",
     "path": "^0.12.7"
